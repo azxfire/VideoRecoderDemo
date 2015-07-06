@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "b3b40e35-801a-9c49-86be-10361538e270++6910",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b3b40e35-801a-9c49-86be-10361538e270++6910" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b3b40e35-801a-9c49-86be-10361538e270++6910" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A9D1676B-4448-4FBA-B3E4-081AC06010E0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b3b40e35-801a-9c49-86be-10361538e270++6910" : "VideoRecoderDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "VideoRecoderDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 203,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "VideoRecoderDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/42.121.4.239:8443\/svn\/secret_ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b3b40e35-801a-9c49-86be-10361538e270++6910"
+    }
+  ]
+}
